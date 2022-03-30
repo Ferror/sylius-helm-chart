@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sylius-helm-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-03-30T13:46:20.815011+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 08dbc208a3aab292513a9385f2bf3c21a838057d223df742423f29af1d4a6f54
+    name: sylius-helm-chart
+    type: application
+    urls:
+    - https://ferror.github.io/sylius-helm-chart/sylius-helm-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-30T13:46:20.814578+02:00"
